@@ -1,0 +1,48 @@
+﻿<Page x:Class="Bancofinal.confirmartransf"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Bancofinal"
+      mc:Ignorable="d" 
+      d:DesignHeight="480" d:DesignWidth="640"
+      Title="confirmartransf" >
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="NewFolder1/plano-de-fundo-azul-21.jpg" />
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="Confirmar" Grid.ColumnSpan="4" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="0" FontSize="30" Foreground="Yellow" TextAlignment="Center" VerticalAlignment="Top"/>
+
+        <StackPanel Grid.Row="1" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Center" Grid.ColumnSpan="2">
+            <TextBlock Text="Transferir " Grid.Row="2" Grid.Column="1" FontSize="25" Foreground="Yellow" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <TextBlock Name="tranfvalor" Grid.Row="2" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="25" Foreground="Yellow"/>
+            <TextBlock Text=" reais para " Grid.Row="2" Grid.Column="1" FontSize="25" Foreground="Yellow" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <TextBlock Name="receber" Grid.Row="2" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="25" Foreground="Yellow"/>
+        </StackPanel>
+
+
+        <Button Content="Sim" Name="conftransf" Foreground="Blue" Background="Yellow" Width="60" Height="30" Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="1" FontSize="15" BorderBrush="White" BorderThickness="2"  />
+        <Button Name="Canctransf" Grid.Row="3" Grid.Column="2" Foreground="Blue" Background="Yellow" Width="60" Height="30" HorizontalAlignment="Center" Content="Não" FontSize="15" BorderBrush="White" BorderThickness="2" UseLayoutRounding="False"  />
+
+
+
+        <TextBlock Name="error" Grid.Row="4" Grid.Column="1" Foreground="Red" TextAlignment="Center" FontSize="20"/>
+
+    </Grid>
+</Page>

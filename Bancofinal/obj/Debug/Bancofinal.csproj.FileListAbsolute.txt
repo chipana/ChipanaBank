@@ -1,0 +1,16 @@
+c:\users\gabriel.costa\documents\visual studio 2015\Projects\Bancofinal\Bancofinal\bin\Debug\Bancofinal.exe.config
+c:\Users\gabriel.costa\Documents\Visual Studio 2015\Projects\Bancofinal\Bancofinal\obj\Debug\Bancofinal.csprojResolveAssemblyReference.cache
+c:\Users\gabriel.costa\Documents\Visual Studio 2015\Projects\Bancofinal\Bancofinal\obj\Debug\App.g.cs
+c:\Users\gabriel.costa\Documents\Visual Studio 2015\Projects\Bancofinal\Bancofinal\obj\Debug\Bancofinal_MarkupCompile.cache
+c:\Users\gabriel.costa\Documents\Visual Studio 2015\Projects\Bancofinal\Bancofinal\obj\Debug\MainWindow.g.cs
+c:\Users\gabriel.costa\Documents\Visual Studio 2015\Projects\Bancofinal\Bancofinal\obj\Debug\Bancofinal_MarkupCompile.lref
+c:\Users\gabriel.costa\Documents\Visual Studio 2015\Projects\Bancofinal\Bancofinal\bin\Debug\Bancofinal.exe
+c:\Users\gabriel.costa\Documents\Visual Studio 2015\Projects\Bancofinal\Bancofinal\bin\Debug\Bancofinal.pdb
+c:\Users\gabriel.costa\Documents\Visual Studio 2015\Projects\Bancofinal\Bancofinal\obj\Debug\MainWindow.baml
+c:\Users\gabriel.costa\Documents\Visual Studio 2015\Projects\Bancofinal\Bancofinal\obj\Debug\Bancofinal.g.resources
+c:\Users\gabriel.costa\Documents\Visual Studio 2015\Projects\Bancofinal\Bancofinal\obj\Debug\Bancofinal.Properties.Resources.resources
+c:\Users\gabriel.costa\Documents\Visual Studio 2015\Projects\Bancofinal\Bancofinal\obj\Debug\Bancofinal.csproj.GenerateResource.Cache
+c:\Users\gabriel.costa\Documents\Visual Studio 2015\Projects\Bancofinal\Bancofinal\obj\Debug\Bancofinal.exe
+c:\Users\gabriel.costa\Documents\Visual Studio 2015\Projects\Bancofinal\Bancofinal\obj\Debug\Bancofinal.pdb
+c:\Users\gabriel.costa\Documents\Visual Studio 2015\Projects\Bancofinal\Bancofinal\obj\Debug\paginaconta.g.cs
+c:\Users\gabriel.costa\Documents\Visual Studio 2015\Projects\Bancofinal\Bancofinal\obj\Debug\paginaconta.baml
